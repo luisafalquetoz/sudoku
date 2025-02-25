@@ -1,4 +1,5 @@
 # Sudoku
+![Screenshot sudoku](src/assets/screenshot-sudoku.png)
 
 Jogo Sudoku criado com o Vite e desenvolvido com React e JavaScript. O projeto contém manipulação de array e estrutura de repetição, além das funções que dão funcionalidades aos botões. 
 - Disponível em: https://jogo-sud-oku.netlify.app/
